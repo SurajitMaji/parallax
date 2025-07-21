@@ -56,9 +56,9 @@ section{
     /* color:blue; */
 }
 .text{
-    font-size:1.4rem;
-    padding:0 10rem;
-    margin:5rem 0;
+    font-size:1.2rem;
+    padding:0 3rem;
+    margin:2rem 0;
     font-family: sans-serif;
 }
 .bg0{
@@ -88,7 +88,7 @@ section{
     background-image: url(puri.JPG);
 }
 .dhauli{
-    background-image: url(dhouli.jpg);
+    background-image: url(dhouli.JPG);
 }
 .konark{
     background-image: url(konark.JPG);
@@ -99,8 +99,31 @@ section{
 .bg10{
     background-image: url(Farewell.jpg);
 }
+
+.bg11{
+    background-image: url(IMG-20241221-WA0020.jpg);
+}
+.bg12{
+    background-image: url(IMG-20250107-WA0013.jpg);
+}
+.bg13{
+    background-image: url(IMG-20250522-WA0016.jpg);
+}
+.bg14{
+    background-image: url(IMG-20250323-WA0000.jpg);
+}
+.bg15{
+    background-image: url(IMG-20250202-WA0044.jpg);
+}
+
+.bg16{
+    background-image: url(M07_8415.JPG);
+}
+.bg17{
+    background-image: url(IMG-20250702-WA0010.jpg);
+}
 .ref{
-    background-image: url(ground.JPG);
+    background-image: url(deptMca.JPG);
 }
 .bg{
     position:relative;
